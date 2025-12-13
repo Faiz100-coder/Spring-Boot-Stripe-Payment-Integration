@@ -43,10 +43,6 @@ src
      └── resources
          └── application.properties
 
-▶️ How to Run
-Clone the repository
-git clone https://github.com/your-username/spring-boot-stripe-payment
-
 
 Configure Stripe keys & DB in application.properties
 Run the application using Spring Boot
