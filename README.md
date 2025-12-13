@@ -1,6 +1,6 @@
-need to add project 
+Need to add Project right here.
 
- availabe on bitbucket: https://bitbucket.org/faizans-workspace
+ Availabe on bitbucket: https://bitbucket.org/faizans-workspace
 
 # Spring-Boot-Stripe-Payment-Integration
 
