@@ -1,9 +1,8 @@
 Need to add Project right here.
 
- Availabe on bitbucket: https://bitbucket.org/faizans-workspace
+ Availabe on bitbucket: https://bitbucket.org/faizans-workspace/workspace/projects
 
 # Spring-Boot-Stripe-Payment-Integration
-
 🚀 Stripe Payment Integration – Spring Boot
 📌 Overview
 
